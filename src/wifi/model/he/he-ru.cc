@@ -832,6 +832,7 @@ HeRu::GetEqualSizedRusForStations(uint16_t bandwidth,
             nRusAssigned = 2 * ru.second.size();
             break;
         }
+      nStations = nRusAssigned;
     }
     if (nRusAssigned == 0)
     {

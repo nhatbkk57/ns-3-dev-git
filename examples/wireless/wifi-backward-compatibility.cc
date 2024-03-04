@@ -116,7 +116,7 @@ main(int argc, char* argv[])
     double simulationTime = 10;  // seconds
     std::string apVersion = "80211a";
     std::string staVersion = "80211n_5GHZ";
-    std::string apRaa = "Minstrel";
+    std::string apRaa = "MinstrelHt";
     std::string staRaa = "MinstrelHt";
     bool apHasTraffic = false;
     bool staHasTraffic = true;

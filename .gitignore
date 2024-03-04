@@ -41,6 +41,7 @@ build/
 
 version.cache
 
+<<<<<<< HEAD
 .gitlab-ci-local/
 .idea/
 cmake-cache/
@@ -54,3 +55,7 @@ vcpkg/
 
 # Ignore local cache used by e.g. clangd
 .cache/
+=======
+src/wifi/experiments/ofdma-validation/ofdma-validation-results
+.ipynb_checkpoints
+>>>>>>> ofdma/master
